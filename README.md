@@ -5,7 +5,8 @@
 * Shivam Mistry - GithubId: smistry4
 
 ## Project Description
-This is a Home Mortgage Approval prediction using three ML approaches namely MLP Classifier, Random Forest, and Ada Boost. We aim to find the most significant factors contributing to the approval or rejection of Home Mortgages. The dataset used in this project is sourced from [HMDA website](https://ffiec.cfpb.gov/data-browser/data/2022?category=states&items=TN&actions_taken=1,2,3) for the year 2022, specifically focused on the state of Tennessee. Furthermore, we have also conducted biasness analysis on the data.
+This is a Home Mortgage Approval prediction using three ML approaches namely MLP Classifier, Random Forest, and Ada Boost. We aim to find the most significant factors contributing to the approval or rejection of Home Mortgages. The dataset used in this project is sourced from [HMDA website](https://ffiec.cfpb.gov/data-browser/data/2022?category=states&items=TN&actions_taken=1,2,3) for the year 2022, specifically focused on the state of Tennessee. Furthermore, we have also conducted biasness analysis on the data.   
+**Read final_report for detailed explanation. 
 
 ## Requirements:
 * Python, preferably 3.0 or greater
